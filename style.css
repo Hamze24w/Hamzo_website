@@ -12,3 +12,14 @@
     padding-top: 0;
     color: green;
 }
+
+#hire-btn {
+    color: #4B4A67;
+    border-color: #4B4A67;
+}
+
+#hire-btn:hover {
+    background-color: #4B4A67;
+    color: #49BEAA;
+    border-color: #49BEAA;
+}
